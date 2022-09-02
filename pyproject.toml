@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tuneout"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
     {name = "Kaan Giray Buzluk", email = "kaangiray26@protonmail.com"},
 ]
@@ -22,6 +22,7 @@ dependencies = [
     "Flask",
     "ratelimit",
     "flask_cors",
+    "ytmusicapi"
 ]
 
 [project.scripts]
