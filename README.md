@@ -3,7 +3,7 @@
 [![GitHub license](https://img.shields.io/github/license/kaangiray26/tuneout)](https://github.com/kaangiray26/tuneout/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/kaangiray26/tuneout)](https://github.com/kaangiray26/tuneout/issues)
 
-![](https://raw.githubusercontent.com/kaangiray26/tuneoyt/main/images/image_1.png)
+![](https://raw.githubusercontent.com/kaangiray26/tuneout/main/images/image_1.png)
 
 ## Supported Services
 - [ ] Amazon Music
